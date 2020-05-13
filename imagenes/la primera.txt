@@ -1,0 +1,8 @@
+Funcionalidad de Git
+- Hubicarse en la carpeta de trabajo
+- para inicializar git ejecutar el siguiente comando
+  git init
+- para ver el estado del proyecto 
+  git status
+- para hacer un commint
+   
